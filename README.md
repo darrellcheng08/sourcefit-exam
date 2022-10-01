@@ -27,6 +27,6 @@ Composer: 2.2
 3. To run the web UI on the server follow this command: npm run serve
 ```
 
-**Step 5:** Access the website:
+**Step 4:** Access the website:
 
 Open your browser and type **localhost:8080** then enter
